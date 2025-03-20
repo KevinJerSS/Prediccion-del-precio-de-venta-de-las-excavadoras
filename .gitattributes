@@ -1,0 +1,2 @@
+.rar filter=lfs diff=lfs merge=lfs -text
+data/bluebook-for-bulldozers/*.csv filter=lfs diff=lfs merge=lfs -text
