@@ -33,6 +33,7 @@ Este proyecto aplica técnicas de aprendizaje automático para predecir el preci
 
 ## 🏁 Conclusión
 
-El modelo desarrollado logra una predicción razonablemente precisa del precio de venta de excavadoras, con un rendimiento satisfactorio en el conjunto de validación. 
-Sin embargo, existen oportunidades de mejora a través de técnicas avanzadas de modelado y enriquecimiento de datos.
+- Se logró construir un modelo con un buen desempeño para predecir los precios de venta.
+- La limpieza y transformación de datos fueron fundamentales para mejorar la precisión.
+- El modelo puede ser refinado con más datos y técnicas avanzadas para mejorar su rendimiento.
 
