@@ -6,11 +6,11 @@ Este proyecto aplica técnicas de aprendizaje automático para predecir el preci
 
 ## 🛠 Tecnologías Utilizadas
 
-- **Python** como lenguaje principal.
-- **Pandas y NumPy** para manipulación de datos.
-- **Scikit-Learn** para el entrenamiento de modelos.
-- **Matplotlib y Seaborn** para visualización de datos.
-- **Jupyter Notebook** para desarrollo y experimentación.
+- **Python**
+- **Pandas y NumPy**
+- **Scikit-Learn**
+- **Matplotlib y Seaborn**
+- **Jupyter Notebook**
 
 ## 📊 Resultados
 
